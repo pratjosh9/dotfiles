@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/pj/.config/sway'
+let g:netrw_dirhist_0='/home/pj/Projects/go-learn/di'
+let g:netrw_dirhist_9='/home/pj/Projects/go-learn/dictionary'
+let g:netrw_dirhist_8='/home/pj/Projects/go-learn/wallet'
+let g:netrw_dirhist_7='/home/pj/Projects/go-learn/structs'
+let g:netrw_dirhist_6='/home/pj/Projects/go-learn/arrays'
+let g:netrw_dirhist_5='/home/pj/Projects/go-learn/iteration'
+let g:netrw_dirhist_4='/home/pj/Projects/go-learn/integers'
+let g:netrw_dirhist_3='/home/pj/Projects/go-learn/hello'
+let g:netrw_dirhist_2='/home/pj/Projects/AoC'

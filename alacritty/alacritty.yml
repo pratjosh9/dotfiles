@@ -1,0 +1,18 @@
+font:
+  normal:
+    family: Iosevka 
+    style: Regular
+
+  bold:
+    family: Iosevka Medium
+    style: Bold 
+
+  italic:
+    family: Iosevka Medium
+    style: Italic
+
+  bold_italic:
+    family: Iosevka Medium
+    style: Bold_Italic
+
+  size: 15

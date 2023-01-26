@@ -32,7 +32,7 @@ treesitter.setup({
     "gitignore",
     "python",
     "cpp",
-    "dart",
+    -- "dart",
     "c",
     "cpp",
     "java",

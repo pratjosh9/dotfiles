@@ -9,6 +9,7 @@ opt.tabstop = 4
 opt.softtabstop = 4
 opt.shiftwidth = 4
 opt.expandtab = true
+opt.hlsearch = false
 opt.incsearch = true
 
 opt.smartindent = true
@@ -21,5 +22,7 @@ opt.colorcolumn = "80,100"
 
 opt.termguicolors = true
 opt.background = "dark"
+
+opt.scrolloff = 8
 opt.signcolumn = "yes"
 
